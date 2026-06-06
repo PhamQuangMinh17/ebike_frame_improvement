@@ -1,4 +1,4 @@
-# E-bike Frame Improvement - MATLAB Submission Code
+# E-bike Frame Improvement Project
 
 This folder contains the modular MATLAB code for the CAMD e-bike frame FEM and topology optimization project.
 
